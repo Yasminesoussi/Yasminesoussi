@@ -1,6 +1,3 @@
-Aperçu du README GitHub de Yasmine Soussi
-Aperçu
-Markdown à copier
 # Yasmine Soussi — Développeuse Full Stack & Mobile
 
 > Étudiante en Mastère Développement d'Applications Mobiles à l'ISET Radès.
