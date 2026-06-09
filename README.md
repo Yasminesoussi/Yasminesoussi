@@ -29,30 +29,6 @@
 
 ---
 
-## Projets récents
-
-### Application de gestion — Restaurant universitaire
-Application mobile fullstack pour la gestion complète d'un restaurant universitaire :
-réservations, cuisine, packs, commandes, paiement en ligne et espaces admin/étudiant.
-`React Native (Expo)` · `Node.js` · `MongoDB` · `Stripe` · `JWT`
-
-### Plateforme de gestion — Centre de formation *(PFE)*
-Plateforme web complète : apprenants, formateurs, sessions, paiements, certificats.
-Chatbot intelligent intégré via Dialogflow + NLP. Backend RESTful sécurisé avec JWT.
-`Angular` · `Node.js` · `Express.js` · `MongoDB` · `Dialogflow`
-
-### Plateforme e-commerce *(Stage de perfectionnement)*
-Catalogue produits, panier, commandes, administration multi-rôles. Architecture MVC.
-`Laravel` · `PHP` · `MySQL` · `Bootstrap`
-
----
-
-## Formation
-
-- **Mastère** Développement d'Applications Mobiles — ISET Radès *(2025 – présent)*
-- **Licence** Technologies de l'Informatique, spécialité Multimédia & Dev Web — ISET Nabeul *(2022 – 2025)*
-
----
 
 ## Contact
 
